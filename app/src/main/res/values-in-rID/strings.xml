@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">StoryApp</string>
+    <string name="str_sign_in">Masuk untuk melanjutkan</string>
+    <string name="input_email">Email</string>
+    <string name="invalid_email">Email tidak valid</string>
+    <string name="input_password">Password</string>
+    <string name="invalid_password">Password tidak  boleh kosong</string>
+    <string name="sign_in">Masuk</string>
+    <string name="welcome">Selamat datang, %s</string>
+    <string name="name">Nama</string>
+    <string name="choose_image">Pilih gambar</string>
+    <string name="upload_add">Unggah</string>
+    <string name="register">Daftar</string>
+    <string name="name_edt">Nama</string>
+    <string name="success_add">Berhasil ditambahkan</string>
+    <string name="next_add">Lanjut</string>
+    <string name="add_desc">Masukan deskripsi</string>
+    <string name="no_file">Tidak  ada file</string>
+    <string name="no_permission">Tidak mendaptkan izin</string>
+    <string name="email_pass_wrong">Email atau password mungkin salah</string>
+    <string name="close_login">Tutup</string>
+    <string name="try_login">Coba lagi</string>
+    <string name="success_login">Berhasil masuk</string>
+    <string name="success_added">Berhasil ditambahkan</string>
+    <string name="login">Masuk</string>
+    <string name="email_taken">Email telah digunakan</string>
+    <string name="back">Kembali</string>
+    <string name="please_login">Mohon Masuk</string>
+    <string name="exit_dialog">Yakin untuk keluar</string>
+    <string name="yes_dialog">Ya</string>
+    <string name="no_dialog">Tidak</string>
+    <string name="pass_dont_match">Password tidak sama</string>
+    <string name="description">Deskripsi</string>
+    <string name="please_add_image_and_description">Tambahkan gambar dan deskripsi</string>
+    <string name="retype_password">Ketik ulang password</string>
+    <string name="scroll">Geser ke atas</string>
+    <string name="retry">Coba lagi</string>
+</resources>

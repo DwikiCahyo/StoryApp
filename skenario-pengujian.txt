@@ -1,0 +1,59 @@
+LoginViewModelTest 
+
+- Ketika berhasil login
+  - memastikan data tidak null
+  - memastikan mengembalikan nilai result.Success adalah true
+  - memastikan actual response (LoginResult) telah sesuai yang diharapkan
+
+- Ketika tidak berhasil login
+  - memastikan data tidak null
+  - memastikan mengembalikan result.Error adalah true
+  - memastikan actual response dari error telah sesuai yang diharapkan
+
+
+RegisterViewModelTest 
+
+- Ketika berhasil register
+  - memastikan data tidak null
+  - memastikan mengembalikan nilai result.Success adalah true
+  - memastikan actual response (ResponseRegister) telah sesuai yang diahrapkan
+
+- Ketika tidak berhasil register
+  - memastikan data tidak null
+  - memastikan mengembalikan result.Error adalah true
+  - memastikan actual response dari error telah sesuai yang diharapkan
+
+MapViewModelTest 
+
+- Ketika berhasil mendapatkan lokasi
+  - memastikan data tidak null
+  - memastikan mengembalikan nilai result.Success adalah true
+  - memastikan actual response ( ListStoryItem) sesuai dengan yang diharapkan
+
+- Ketika tidak berhaasil mendapatkan lokaasi
+  - memastikan data tidak null
+  - memastikan mengembalikan result.Error adalah true
+  - memastikan actual response dari error telah sesuai yang diharapkan
+
+NewStoryViewModelTest
+
+- Ketika berhasil menambahkan data baru
+  - memastikan data tidak null
+  - memastikan mengembalikan nilai result.Success true
+  - memastikan actual response ( ResponseNewStory) sesuai dengan yang diharapkan
+
+MainViewModelTest
+
+-Ketika berhasil menambahkan memuat data
+  - memastikan data tidak null
+  - memastikan actual response (ListStoryItem dengan pagging) sesuai dengan yang diharapkan
+
+AuthViewModelTest
+
+-memastikan ketika getUser() dipanggil mengembalikan userModel
+-memastikan  actual response (userModel) sesuai dengan yang diharapkan
+-memastikan  actual response (userModel token) sesuai dengan yang diharapkan
+
+
+
+

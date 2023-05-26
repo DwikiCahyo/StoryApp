@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">StoryApp</string>
+    <string name="str_sign_in">Sign In to Continue</string>
+    <string name="input_email">Email</string>
+    <string name="invalid_email">Invalid Email</string>
+    <string name="input_password">Password</string>
+    <string name="invalid_password">Password Can Not Empty</string>
+    <string name="sign_in">Sign In</string>
+    <string name="logo_story_app" translatable="false">logo Story App</string>
+    <string name="desc_image" translatable="false">Image Story</string>
+    <string name="welcome">Welcome, %s </string>
+    <string name="name">Name</string>
+    <string name="floating_button" translatable="false">Floating Button</string>
+    <string name="choose_image">Choose Image</string>
+    <string name="upload_add">Upload</string>
+    <string name="register">Register</string>
+    <string name="name_edt">Name</string>
+    <string name="success_add">Successfully added</string>
+    <string name="next_add">Next</string>
+    <string name="add_desc">Please Add Description</string>
+    <string name="no_file">No files added</string>
+    <string name="no_permission">Cant get permission</string>
+    <string name="email_pass_wrong">Email or password might be wrong</string>
+    <string name="close_login">Close</string>
+    <string name="try_login">Try again later</string>
+    <string name="success_login">Success Login</string>
+    <string name="success_added">Successfully added</string>
+    <string name="login">Login</string>
+    <string name="email_taken">Email is already taken</string>
+    <string name="back">Back</string>
+    <string name="please_login">Please Login</string>
+    <string name="exit_dialog">Do you want to exit</string>
+    <string name="yes_dialog">Yes</string>
+    <string name="no_dialog">No</string>
+    <string name="pass_dont_match">Password don\'t match</string>
+    <string name="description">Description</string>
+    <string name="please_add_image_and_description">Please add image and description</string>
+    <string name="register_story_app" translatable="false">Register Story App</string>
+    <string name="retype_password">Retype Password</string>
+    <string name="button_logout" translatable="false">Button Logout</string>
+    <string name="button_language" translatable="false">Button Language</string>
+    <string name="email_cant_empty" translatable="false">Email cant empty</string>
+    <string name="title_activity_maps" translatable="false">MapsActivity</string>
+    <string name="button_map" translatable="false">Button Map</string>
+    <string name="retry">retry</string>
+    <string name="scroll">Scroll up</string>
+</resources>
